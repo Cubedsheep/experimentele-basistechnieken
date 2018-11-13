@@ -1,0 +1,7 @@
+meting	resonantiefrequentie	fout
+1	1000	50
+2	1050	50
+3	1050	50
+4	1000	50
+5	1050	50
+6	1050	50
